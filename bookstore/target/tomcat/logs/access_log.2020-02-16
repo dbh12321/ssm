@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:01:05 +0800] "GET / HTTP/1.1" 404 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:01:29 +0800] "GET /login.jsp HTTP/1.1" 404 - http-bio-80-exec-3 0
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:01:58 +0800] "GET /bookstore/login.jsp HTTP/1.1" 200 6802 http-bio-80-exec-5 366
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:01:58 +0800] "GET /bookstore/css/main.css HTTP/1.1" 200 6874 http-bio-80-exec-8 1
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:01:58 +0800] "GET /bookstore/images/cart.gif HTTP/1.1" 200 671 http-bio-80-exec-10 1
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:01:58 +0800] "GET /bookstore/js/jquery-3.3.1.js HTTP/1.1" 200 282115 http-bio-80-exec-7 2
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:01:58 +0800] "GET /bookstore/images/logo.png HTTP/1.1" 200 4266 http-bio-80-exec-9 1
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:01:58 +0800] "GET /bookstore/js/my.js HTTP/1.1" 200 699 http-bio-80-exec-10 2
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:01:58 +0800] "GET /bookstore/images/serchbutton.gif HTTP/1.1" 200 753 http-bio-80-exec-4 1
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:02:10 +0800] "POST /bookstore/loginServlet HTTP/1.1" 200 6823 http-bio-80-exec-4 80
+0:0:0:0:0:0:0:1 - - [16/Feb/2020:13:03:14 +0800] "GET /bookstore/product_list.jsp HTTP/1.1" 200 6802 http-bio-80-exec-2 2
